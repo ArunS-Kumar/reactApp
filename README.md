@@ -2,8 +2,11 @@
 
 ## Installation
 
-$ git clone git@github.com:ArunS-Kumar/reactApp.git
-$ npm install
+git clone git@github.com:ArunS-Kumar/reactApp.git
+cd reactApp
+npm install
+
+
 
 
 
